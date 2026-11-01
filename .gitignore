@@ -1,0 +1,8 @@
+# Configuration secrets
+config.json
+
+# Local cache
+__pycache__/
+
+# Virtual environment
+rr_venv/
