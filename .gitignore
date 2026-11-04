@@ -6,3 +6,6 @@ __pycache__/
 
 # Virtual environment
 rr_venv/
+
+# Jupyter notebook source material
+*.ipynb
